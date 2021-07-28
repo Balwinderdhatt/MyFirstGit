@@ -1,1 +1,1 @@
-console.log("Hello World + I made a conflit here")
+console.log("Hello World + I made a merge conflit here")
