@@ -7,8 +7,9 @@
   clone this bad boy
  
 ## Run instructions
-    - just run npm init to run the node project
-    - run the npm install to install the required dependencies and packages
+
+    * just run npm init to run the node project
+    * run the npm install to install the required dependencies and packages
     
 ## A table of weeks for the course, and the course content.
 
