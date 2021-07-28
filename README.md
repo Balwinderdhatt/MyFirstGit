@@ -1,16 +1,16 @@
-#Project Title: Software Fraeworks: Week 2
-##Description: 
+# Project Title: Software Fraeworks: Week 2
+## Description: 
     This a week 2 workshop. learning to use git.
     
  
 ## Install instructions: 
   clone this bad boy
  
-##Run instructions
+## Run instructions
     - just run npm init to run the node project
     - run the npm install to install the required dependencies and packages
     
-## a table of weeks for the course, and the course content.
+## A table of weeks for the course, and the course content.
 
   | Weeks   | Course Content      |
   |-------  |---------------------|
